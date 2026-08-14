@@ -1,0 +1,11 @@
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\bin\Debug\RA52M3.exe.config
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\bin\Debug\RA52M3.exe
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\bin\Debug\RA52M3.pdb
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\obj\Debug\RA52M3.csproj.AssemblyReference.cache
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\obj\Debug\RA52M3.frmEstudiante.resources
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\obj\Debug\RA52M3.Properties.Resources.resources
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\obj\Debug\RA52M3.csproj.GenerateResource.cache
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\obj\Debug\RA52M3.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\obj\Debug\RA52M3.exe
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\obj\Debug\RA52M3.pdb
+C:\Users\Laboratorio 2\Desktop\RA52M3\RA52M3\obj\Debug\RA52M3.exe.config

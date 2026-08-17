@@ -182,7 +182,7 @@ namespace RA52M3
         {
             Filtrar();
         }
-
+        // este es un comentario
         private void cmbOrden_SelectedIndexChanged(object sender, EventArgs e)
         {
             int Opcion = cmbOrden.SelectedIndex;
